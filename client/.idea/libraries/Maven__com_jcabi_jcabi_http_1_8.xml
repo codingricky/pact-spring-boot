@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jcabi:jcabi-http:1.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcabi/jcabi-http/1.8/jcabi-http-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcabi/jcabi-http/1.8/jcabi-http-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcabi/jcabi-http/1.8/jcabi-http-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
